@@ -1,9 +1,7 @@
 # 🚀 ClovPT – Agentic AI Penetration Testing Platform 🚀  
 **ClovPT** is redefining penetration testing by combining **Agentic AI**, **real-world pentester intelligence**, and **scalable automation** to secure digital infrastructures at speed and scale. 
 
-**ClovPT** is **India’s most advanced AI-driven agentic pentesting platform** that mimics the behavior of skilled security professionals.  
-Unlike traditional scanners or automated tools, ClovPT’s **multi-agent architecture** performs **Recon → Vulnerability Discovery → Exploitation → Reporting** autonomously, while ensuring **human-like adaptability**.  
-We are currently in **🔔 Private Beta (Waitlist Mode)**, Join early to get exclusive access.
+**ClovPT** is **India’s most advanced AI-driven agentic pentesting platform** that mimics the behavior of skilled security professionals. Unlike traditional scanners or automated tools, ClovPT’s **multi-agent architecture** performs **Recon → Vulnerability Discovery → Exploitation → Reporting** autonomously, while ensuring **human-like adaptability**. We are currently in **🔔 Private Beta (Waitlist Mode)**, Join early to get exclusive access.
 
 
 
