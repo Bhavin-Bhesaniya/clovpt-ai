@@ -1,25 +1,33 @@
-# 🚀 ClovPT – Agentic AI Offensive Security Testing Platform 🚀  
-**ClovPT** is redefining penetration testing by combining **Agentic AI**, **real-world pentester intelligence**, and **scalable automation** to secure digital infrastructures at speed and scale. 
+# 🚀 Cloy – AI-Powered Your Virtual Agentic Cybersecurity Team, by Clovin Security 🚀  
 
-**ClovPT** is **India’s most advanced AI-driven agentic red teaming platform** that mimics the behavior of skilled security professionals. Unlike traditional scanners or automated tools, ClovPT’s **multi-agent architecture** performs **Recon → Vulnerability Discovery → Exploitation → Reporting** autonomously, while ensuring **human-like adaptability**. We are currently in **🔔 Private Beta (Waitlist Mode)**, Join early to get exclusive access.
-
+**Cloy** transforms how organizations defend themselves. Instead of hiring large teams or relying only on slow audits, Cloy gives you an **always-on, AI-powered virtual cybersecurity team** - available instantly, scaling endlessly. Our **agentic multi-agent system** doesn’t just scan for issues—it **thinks, hunts, and adapts like a human security team**. From **penetration testing** to **threat hunting**, **SOC analysis**, and **dark web monitoring**, Cloy delivers **24/7 protection that never sleeps, never misses.**  
 
 
-## Our Core Capabilities  
-- ✔️ **AI Agentic Pentester** – Thinks and acts like a human red-teamer.  
-- ✔️ **Multi-Agent Architecture** – Control Plane + Offensive Engagement Plane for modular, scalable ops.  
-- ✔️ **Defense Evasion Tactics** – Tests your security stack against stealthy attackers. 
-- ✔️ **Zero-Day Discovery Engine** – Detects unknown & hidden vulnerabilities beyond CVE databases.  
-- ✔️ **Threat Simulation** – MITRE ATT&CK–aligned adversarial simulations.  
-- ✔️ **Cloud-Native** – Works seamlessly with CI/CD pipelines, DevOps & modern infra.  
-- ✔️ **Autonomous Reporting** – Executive & technical reporting with compliance alignment.  
- 
+
+## 🌐 Why Cloy?  
+- **Virtual Cybersecurity Team** – Spin up a full-stack security team on demand.  
+- **Agentic Intelligence** – Human-like reasoning for smarter offensive & defensive ops.  
+- **Continuous Security** – Always-on, not quarterly snapshots.  
+- **Scalable & Cost-Effective** – Enterprise-grade security without heavy hiring costs.  
+
+
+
+
+## 🛡️ Our Core Capabilities  
+- ✔️ **AI Pentester Agent** – Human-level recon, exploitation, and compliance readyness at scale.  
+- ✔️ **Red Teamer Agent** – Tests your systems against stealthy adversary techniques.  
+- ✔️ **Virtual SOC Analyst** – Detects, validates, and triages incidents, reducing false positives.  
+- ✔️ **Threat Hunter Agent** – Finds advanced persistent threats (APTs) lurking in your environment.  
+- ✔️ **Dark Web Monitor** – Tracks underground chatter and stolen data related to your org.  
+- ✔️ **Security Engineer Agent** – Reviews code, architectures, and configurations for best practices.  
+- ✔️ **Zero-Day Discovery Engine** – Identifies vulnerabilities beyond known CVEs.  
+- ✔️ **Autonomous Reporting** – Executive & technical reports aligned with compliance needs.  
 
 
 
 ## 🔔 Join the Waitlist  
-We’re currently onboarding **early users and partners**.  
-👉 [Join the Waitlist](https://clovinsec.com)  
+We’re currently onboarding **early users and partners**.  👉 [Join the Waitlist](https://www.clovinsec.com)  
+
 
 
 ## 📬 Connect with Us  
@@ -27,5 +35,4 @@ We’re currently onboarding **early users and partners**.
 💼 LinkedIn: [Clovin Security](https://linkedin.com/company/clovinsec)  
 🐦 Twitter/X: [@clovinsec](https://twitter.com/clovinsec)  
 
-
-⭐ **If you believe in our mission to redefine security testing, give us a star on GitHub!**  
+⭐ **If you believe in our mission to redefine security with AI, give us a star on GitHub!**  
