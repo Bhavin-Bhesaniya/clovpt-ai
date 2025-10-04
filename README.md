@@ -31,8 +31,8 @@ We’re currently onboarding **early users and partners**.  👉 [Join the Waitl
 
 
 ## 📬 Connect with Us  
-🌐 Website: [clovinsec.com](https://clovinsec.com)  
-💼 LinkedIn: [Clovin Security](https://linkedin.com/company/clovinsec)  
-🐦 Twitter/X: [@clovinsec](https://twitter.com/clovinsec)  
+🌐 Website: [clovinsec.com](https://www.clovinsec.com)  
+💼 LinkedIn: [Clovin Security](https://linkedin.com/company/clovin-security)  
+🐦 Twitter/X: [@clovinsec](https://twitter.com/clovin_sec)  
 
 ⭐ **If you believe in our mission to redefine security with AI, give us a star on GitHub!**  
